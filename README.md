@@ -1,16 +1,43 @@
-## Hi there 👋
+# Victoria Joseph
 
-<!--
-**victoriajosephprojects/victoriajosephprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analyst | Operations Support | Data Analytics | Digital Transformation
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a results-driven Business Analyst and Operations Support professional with experience in business analysis, data analysis, process improvement, digital operations, stakeholder engagement, and user support.
+
+## 🛠️ Skills & Tools
+
+- Business Analysis
+- Requirements Gathering
+- Data Analysis
+- Microsoft Excel
+- Power BI
+- Process Improvement
+- UAT Coordination
+- Incident Management
+- Stakeholder Engagement
+- Training & User Support
+
+## 📊 Featured Projects
+
+Coming soon...
+
+## 📈 Data Analytics
+
+Coming soon...
+
+## 💼 Professional Experience
+
+Coming soon...
+
+## 🎓 Certifications
+
+- CAPM
+- PRINCE2®
+- Agile Project Management
+- Business Analysis
+
+## 📫 Contact Me
+
+LinkedIn: Add your LinkedIn profile here
