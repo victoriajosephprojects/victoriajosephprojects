@@ -44,4 +44,4 @@ Coming soon...
 
 ## 📫 Contact Me
 
-LinkedIn: Add your LinkedIn profile here
+www.linkedin.com/in/victoriajosephnk
