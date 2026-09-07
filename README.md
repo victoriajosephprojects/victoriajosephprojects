@@ -1,10 +1,16 @@
 # Victoria Joseph
 
-### Business Analyst | Operations Support | Data Analytics | Digital Transformation
+### Business Analyst | Data Analytics | Digital Transformation | Operations Support
 
 ## 👩‍💻 About Me
 
-I am a results-driven Business Analyst and Operations Support professional with experience in business analysis, data analysis, process improvement, digital operations, stakeholder engagement, and user support.
+I am a **Business Analyst, Data Analyst, and Operations Support professional** with 7+ years of experience in **business analysis, data analytics, digital transformation, process improvement, and technology-enabled operations**.
+
+I specialize in **data analysis and visualization, requirements gathering, KPI reporting, process optimization, UAT, stakeholder engagement, and user support**. I use data and technology to identify business challenges, generate actionable insights, improve processes, and support better decision-making.
+
+🛠️ **Tools:** Excel | Power BI | Tableau | SQL | Jira | Azure DevOps
+
+🚀 **Passionate about Data Analytics, Business Intelligence, Digital Transformation, and solving real-world business problems with data and technology.**
 
 ## 🛠️ Skills & Tools
 
