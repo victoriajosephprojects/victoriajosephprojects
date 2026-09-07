@@ -41,8 +41,6 @@ Coming soon...
 
 - CAPM
 - PRINCE2®
-- Agile Project Management
-- Business Analysis
 
 ## 📫 Contact Me
 
